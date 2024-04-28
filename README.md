@@ -1,6 +1,6 @@
-# C Programming Course (Bühler)
+# C Programming Course
 
-This repository contains all the materials for the internal C Programming course at Bühler AG.
+This repository contains all the materials for the C programming course.
 
 ## Course Contents
 
@@ -10,7 +10,7 @@ This repository contains all the materials for the internal C Programming course
 4. Functions
 5. Arrays and Strings
 6. Pointers
-7. Structures and Unions
+7. Structures
 8. File I/O
 
 Furthermore there is a folder for the documentation of C.
